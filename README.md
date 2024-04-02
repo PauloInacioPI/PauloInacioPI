@@ -9,7 +9,7 @@ E aperfeiçoando os conhecimentos em:
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo" width="80px">
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" width="80px">
 
-Estou formando em :computer::books: <b>Analise e Desenvolvimentos de Sistemas pela Estácio</b>, <br>e agora estou cursando <b>Full Stack no DevClub</b>.
+Sou formado em :computer::books: <b>Analise e Desenvolvimentos de Sistemas pela Estácio</b>, <br>e agora estou cursando <b>Full Stack no DevClub</b>.
 <br>
 <br>
 <br>
