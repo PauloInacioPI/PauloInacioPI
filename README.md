@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Paulo Inacio, sou um programador Front-End, atualmente estou aprendendo e criando projetos com:
+Olá, me chamo Paulo Inacio, sou um programador Front-End, atualmente crio projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" width="80px">
@@ -10,7 +10,7 @@ E aperfeiçoando os conhecimentos em:
 
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" width="80px">
 
-Sou formado em :computer::books: <b>Analise e Desenvolvimentos de Sistemas pela Estácio</b>, <br>e agora estou cursando <b>Full Stack no DevClub</b>.
+Sou formado em :computer::books: <b>Analise e Desenvolvimentos de Sistemas pela Estácio</b>, <br>e cursei <b>Full Stack no DevClub</b>.
 <br>
 <br>
 <br>
