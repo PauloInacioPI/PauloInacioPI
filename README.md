@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, me chamo Paulo Inacio, sou um programador Front-End, atualmente crio projetos com:
+Olá, me chamo Paulo Inacio. Sou um programador Front-End e atualmente crio projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" width="80px">
